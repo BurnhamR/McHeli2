@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
-  "version": "${version}",
-  "mcversion": "${mcversion}",
-  "url": "",
+  "modid": "mcheli",
+  "name": "McHeli2",
+  "description": "Welcome to McHeli2, McHeli by EMB4, Redesign by Skyy",
+  "version": "1.0.1B",
+  "mcversion": "1.12.2",
+  "url": "http://forum.minecraftuser.jp/viewtopic.php?f=13&t=14837",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["Skyy"],
+  "credits": "EMB4, Skyy, GCS, Ryan Patel",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
