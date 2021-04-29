@@ -5,9 +5,6 @@ If you are interested in helping me complete this project, please feel free to c
 
 Expected Finish Date: March 2021
 
-
-Patreon: https://patreon.com/SkyyGCS
-
 PayPal: Coming Soon!
 
 Repository may not be updated frequently, due to it only reciving large mod updates, and a private repo between the developers of the Mod to work on it together.
