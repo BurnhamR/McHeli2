@@ -1,3 +1,7 @@
+## Warning, This project is mostly abandoned, This was all done by some community members when they ahd time, and most of them have been overly busy with school.
+However this does not mean we may not come back to this.
+Wanna see another cool mod being updated from older version? Check out [Modern Warfare Cubed](https://github.com/Cubed-Development/Modern-Warfare-Cubed)!
+
 # Aviation Mod
 Welcome all to my project for an updated and advanced version of "McHeli by EMB4" made for 1.18-1.19+
 
